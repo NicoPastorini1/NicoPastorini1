@@ -47,7 +47,7 @@ Mi objetivo personal actualmente es hacer de mi Hobbie, la programación un trab
 
 
 ### Contacto 📩 
-Email: mailto:nicolaspastorini14@gmail.com <br>
+Email: nicolaspastorini14@gmail.com <br>
 LinkedIn: https://www.linkedin.com/in/nicolas-pastorini/ <br>
 Descarga mi CV: [Click!](https://drive.google.com/file/d/1nAnFrtghP2519amLaRMax1OmJchrV6ih/view?usp=sharing) <br>
 Portfolio: https://nicopastorini1.github.io/ <br>
