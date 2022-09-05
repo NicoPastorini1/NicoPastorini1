@@ -3,7 +3,7 @@ Bienvenido!
 </p></h3>
 
 <p align="center">
-Hola! Soy Nico, tengo 22 años. Estudiante y Programador web. Me principales conocimientos estan en Angular y Java. Me gusta las finanzas, el deporte 🏋🏻, los autos y motos!
+Hola! Soy Nico, tengo 22 años. Estudiante y Programador web. Me principales conocimientos estan en Angular y Java. Me gustan las finanzas, el deporte 🏋🏻, los autos y motos!
 </p>
 
 <hr/> 
@@ -30,7 +30,8 @@ Mi objetivo personal actualmente es hacer de mi Hobbie, la programación un trab
 - Postman
 
 <strong>Intereses en aprender ✍🏻</strong>
-- Arquitectura de Microservicios
+
+- Microservicios
 - Patrones de diseño
 - Diseño de base de datos
 - Tecnologias: Ionic, Swift, React Native, ReactJS, NextJS, NestJS, Express y GraphQL
