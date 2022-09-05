@@ -13,9 +13,11 @@ Hola! Soy Nico, tengo 22 años. Estudiante y Programador web. Me principales con
 Empece en 2020 con interés en Analisis de datos y la programación, aprendi Python y manejo de datos con librerias como Numpy, Pandas, Matplotlib y Seaborn, luego
   hice el curso de Data Analyst para aprender visualización de datos en Power BI. En 2021 Octubre conseguí mi primer empleo como Data Analyst, donde era el único en mi área donde reforce mi capacidad de resolver problemas y ser autodidacta. Luego cambie de trabajo a Reporting Specialist, mientras cursaba desde Febrero 2022 a Agosto 2022 programación web fullstack en INTI, mientras este era mi Hobbie.
 </p>
-<strong>Objetivo Personal</strong>
 
-<p>Mi objetivo personal actualmente es hacer de mi Hobbie, la programación un trabajo, donde pueda invertir mi tiempo de trabajo en aprender y ver proyectos reales con problemas, objetivos reales e interactuar dia a dia con personas del rubro</p>
+<strong>Objetivo Personal</strong>
+<p>
+Mi objetivo personal actualmente es hacer de mi Hobbie, la programación un trabajo, donde pueda invertir mi tiempo de trabajo en aprender y ver proyectos reales con problemas, objetivos reales e interactuar dia a dia con personas del rubro
+</p>
 
 <strong>Tecnologías 👨🏻‍💻💻 </strong>
 
