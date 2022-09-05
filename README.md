@@ -30,7 +30,7 @@ Mi objetivo personal actualmente es hacer de mi Hobbie, la programación un trab
 - Postman
 
 <strong>Intereses en aprender ✍🏻</strong>
-- Microservicios
+- Arquitectura de Microservicios
 - Patrones de diseño
 - Diseño de base de datos
 - Tecnologias: Ionic, Swift, React Native, ReactJS, NextJS, NestJS, Express y GraphQL
