@@ -39,8 +39,8 @@ Mi objetivo personal actualmente es hacer de mi Hobbie, la programación un trab
 
 
 <strong> Proyectos personales 🛠️ </strong>
-- [CRUD-Backend](https://github.com/NicoPastorini1/CRUD-Backend) - Backend de un CRUD (Create, Read, Update, Delete)
-- [CRUD-Frontend](https://github.com/NicoPastorini1/CRUD-Frontend) - Frontend de un CRUD
+- [CRUD-Backend](https://github.com/NicoPastorini1/CRUD-Backend) - Backend de un CRUD (Express) (Create, Read, Update, Delete)
+- [CRUD-Frontend](https://github.com/NicoPastorini1/CRUD-Frontend) - Frontend de un CRUD (Angular)
 - [Portfolio-Personal](https://github.com/NicoPastorini1/NicoPastorini1.github.io) - Portfolio personal estático (HTML, CSS y funcionalidades en JavaScript
 - [Portfolio-Certificacion](https://github.com/NicoPastorini1/PortfolioNicolasPastorini) - Portfolio estático para INTI (Angular)
 - [Portfolio-Backend-Certificacion](https://github.com/NicoPastorini1/PortfolioNicolasPastorini-BackEnd) - Backend para el Portfolio (Java, JWT)
