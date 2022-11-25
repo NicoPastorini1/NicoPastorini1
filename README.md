@@ -44,7 +44,7 @@ Mi objetivo personal actualmente es hacer de mi Hobbie, la programación un trab
 - [Portfolio-Personal](https://github.com/NicoPastorini1/NicoPastorini1.github.io) - Portfolio personal estático (HTML, CSS y funcionalidades en JavaScript
 - [Portfolio-Certificacion](https://github.com/NicoPastorini1/PortfolioNicolasPastorini) - Portfolio estático para INTI (Angular)
 - [Portfolio-Backend-Certificacion](https://github.com/NicoPastorini1/PortfolioNicolasPastorini-BackEnd) - Backend para el Portfolio (Java, JWT)
-- [Gym Comercial - APP](https://github.com/NicoPastorini1/GymApp)) - Pagina comercial de un gimnasio (Angular) con Servidor en Firebase
+- [Gym Comercial - APP](https://github.com/NicoPastorini1/GymApp) - Pagina comercial de un gimnasio (Angular) con Servidor en Firebase
 
 
 
