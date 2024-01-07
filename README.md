@@ -16,5 +16,5 @@ Actualmente interesado en proyectos
 🌐 Consultoría en integraciones y oportunidades de negocio.
 
 Contacto:
-📱 +54 11 6045-5669
+📱 +54 11 6045-5669<br/>
 📧 nicolaspastorini14@gmail.com
