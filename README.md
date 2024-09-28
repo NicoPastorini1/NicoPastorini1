@@ -12,7 +12,7 @@ Actualmente interesado en proyectos
 
 🔧 ETL (Python Pipeline, SSIS, SSAS)
 📊 Visualización de datos (Power BI, Data Studio, Tableau)
-🗃️ Base de datos (PostgreSQL, SQL Server, DynamoDB)
+🗃️ Base de datos (PostgreSQL, SQL Server)
 🌐 Consultoría en integraciones y oportunidades de negocio.
 
 Contacto:
