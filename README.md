@@ -1,4 +1,4 @@
-Desarrollador apasionado y entusiaste en ingeniería de datos 💻📈
+Desarrollador apasionado y entusiasta en ingeniería de datos 💻📈
 
 Actualmente interesado en proyectos
 
