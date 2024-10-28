@@ -10,10 +10,10 @@ Actualmente interesado en proyectos
 
 🔍 Ofrezco servicios de Business Intelligence para potenciar la toma de decisiones en tu empresa con los siguientes instrumentos:
 
-🔧 ETL (Python Pipeline, SSIS, SSAS)
-📊 Visualización de datos (Power BI, Data Studio, Tableau)
-🗃️ Base de datos (PostgreSQL, SQL Server)
-🌐 Consultoría en integraciones y oportunidades de negocio.
+🔧 ETL (Python Pipeline, SSIS, SSAS)<br/>
+📊 Visualización de datos (Power BI, Data Studio, Tableau)<br/>
+🗃️ Base de datos (PostgreSQL, SQL Server)<br/>
+🌐 Consultoría en integraciones y oportunidades de negocio.<br/>
 
 Contacto:
 📱 +54 11 6045-5669<br/>
