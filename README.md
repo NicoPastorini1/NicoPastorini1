@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![NicoPastorini1 GitHub stats](https://github-readme-stats.vercel.app/api?username=NicoPastorini1)](https://github.com/NicoPastorini1/github-readme-stats)
 <!--
 **NicoPastorini1/NicoPastorini1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
