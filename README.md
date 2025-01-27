@@ -13,9 +13,9 @@ Actualmente interesado en proyectos
 🗃️ Base de datos (PostgreSQL, SQL Server)
 🌐 Análisis de tableros, datos y procesos, identificando oportunidades de mejora y optimización
 
-💼 Ene 2023 - Actual.  | Corebi - Data Vizualition and Data Engineering
-💼 Jul 2022 - Ene 2023 | Frubis - Reporting Specialist
-💼 Oct 2021 - Jul 2022 | Decreditos - Data Analyst & Planning
+💼 Ene 2023 - Actual.  | Corebi - Data Vizualition and Data Engineering <br>
+💼 Jul 2022 - Ene 2023 | Frubis - Reporting Specialist<br>
+💼 Oct 2021 - Jul 2022 | Decreditos - Data Analyst & Planning<br>
 
 Contacto:
 📱 +54 11 6045-5669
