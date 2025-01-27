@@ -8,12 +8,14 @@ Actualmente interesado en proyectos
 
 👨🏻‍💻 Soy proactivo, ordenado y comprometido. Priorizo las mejores prácticas, una comunicación efectiva y la constante mejora y automatizado de procesos.
 
-🔍 Ofrezco servicios de Business Intelligence para potenciar la toma de decisiones en tu empresa con los siguientes instrumentos:
-
 🔧 ETL (Python Pipeline, SSIS, SSAS)
 📊 Visualización de datos (Power BI, Data Studio, Tableau)
 🗃️ Base de datos (PostgreSQL, SQL Server)
-🌐 Consultoría en integraciones y oportunidades de negocio.
+🌐 Análisis de tableros, datos y procesos, identificando oportunidades de mejora y optimización
+
+💼 Ene 2023 - Actual.  | Corebi - Data Vizualition and Data Engineering
+💼 Jul 2022 - Ene 2023 | Frubis - Reporting Specialist
+💼 Oct 2021 - Jul 2022 | Decreditos - Data Analyst & Planning
 
 Contacto:
 📱 +54 11 6045-5669
