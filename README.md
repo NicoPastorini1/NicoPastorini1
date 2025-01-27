@@ -18,8 +18,8 @@ Actualmente interesado en proyectos<br>
 💼 Oct 2021 - Jul 2022 | Decreditos - Data Analyst & Planning<br>
 
 Contacto:
-📱 +54 11 6045-5669
-📧 nicolaspastorini14@gmail.com
+📱 +54 11 6045-5669<br>
+📧 nicolaspastorini14@gmail.com <br>
 ![NicoPastorini1 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoPastorini1&layout=compact)
 <!--
 **NicoPastorini1/NicoPastorini1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
