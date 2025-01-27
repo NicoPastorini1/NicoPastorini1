@@ -21,7 +21,7 @@ Contacto:
 📱 +54 11 6045-5669
 📧 nicolaspastorini14@gmail.com
 
-[![NicoPastorini1 GitHub stats](https://github-readme-stats.vercel.app/api?username=NicoPastorini1)](https://github.com/NicoPastorini1/github-readme-stats)
+[![NicoPastorini1 GitHub stats](https://github-readme-stats.vercel.app/api?username=NicoPastorini1)](https://github.com/NicoPastorini1/github-readme-stats) <br>
 ![NicoPastorini1 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoPastorini1&layout=compact)
 <!--
 **NicoPastorini1/NicoPastorini1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
