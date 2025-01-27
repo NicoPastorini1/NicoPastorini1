@@ -20,8 +20,7 @@ Actualmente interesado en proyectos<br>
 ![NicoPastorini1 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoPastorini1&layout=compact) <br>
 
 Contacto:<br>
-📱 +54 11 6045-5669<br>
-📧 nicolaspastorini14@gmail.com <br>
+📧 Si queres charlar conmigo 𝗽𝗼𝗱𝗲𝘀 𝗰𝗼𝗻𝘁𝗮𝗰𝘁𝗮𝗿𝗺𝗲 directamente por Linkedin o enviarme un mail a nicolaspastorini14@gmail.com
 <!--
 **NicoPastorini1/NicoPastorini1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
