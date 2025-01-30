@@ -13,6 +13,9 @@ Actualmente interesado en proyectos<br>
 🗃️ Base de datos (PostgreSQL, SQL Server)<br>
 🌐 Análisis de tableros, datos y procesos, identificando oportunidades de mejora y optimización<br>
 
+🛠 Projects:
+🔧 [Inicio de Sesion/Registro en Java Spring](https://github.com/NicoPastorini1/login-backend) <br>
+
 💼 Ene 2023 - Actual.  | Corebi - Data Vizualition & Data Engineering <br>
 💼 Jul 2022 - Ene 2023 | Frubis - Reporting Specialist<br>
 💼 Oct 2021 - Jul 2022 | Decreditos - Data Analyst & Planning<br>
