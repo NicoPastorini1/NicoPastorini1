@@ -16,6 +16,7 @@ Actualmente interesado en proyectos<br>
 🛠 Projects:<br>
 🔧 [Inicio de Sesion/Registro en Java Spring](https://github.com/NicoPastorini1/login-backend) <br>
 🔧 [CRUD Backend en Nodes.Js](https://github.com/NicoPastorini1/CRUD-backend)<br>
+🔧 [CRUD Backend en Java](https://github.com/NicoPastorini1/CRUD-Backend-Java)<br>
 
 💼 Ene 2023 - Actual.  | Corebi - Data Vizualition & Data Engineering <br>
 💼 Jul 2022 - Ene 2023 | Frubis - Reporting Specialist<br>
