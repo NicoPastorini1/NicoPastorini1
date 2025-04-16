@@ -18,6 +18,7 @@ Actualmente interesado en proyectos<br>
 🔧 [CRUD Backend en Nodes.Js](https://github.com/NicoPastorini1/CRUD-backend)<br>
 🔧 [CRUD Backend en Java](https://github.com/NicoPastorini1/CRUD-Backend-Java)<br>
 🔧 [gif-search-app](https://github.com/NicoPastorini1/gif-search-app)<br>
+🔧 [CRUD-DesignAPPChallenge](https://github.com/NicoPastorini1/CRUD-DesignAPPChallenge)<br>
 
 🛠 Experiencia:<br>
 💼 Ene 2023 - Actual.  | Corebi - Data Vizualition & Data Engineering <br>
