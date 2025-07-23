@@ -1,7 +1,5 @@
 Desarrollador apasionado y entusiasta en ingeniería de datos 💻📈<br>
 
-Actualmente interesado en proyectos<br>
-
 💻 Analista de datos con experiencia en visualización, modelado y planificación estratégica. Mi objetivo es convertir datos en conocimiento para impulsar el crecimiento y la eficiencia empresarial.<br>
 
 📈 A lo largo de mi carrera, he trabajado en proyectos de Data Visualization & Engineering utilizando herramientas como SSIS, SSMS, Power BI, Supermetrics, Google Scripts, Python, Data Studio, Tableau, GCP y C#.<br>
