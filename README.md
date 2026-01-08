@@ -1,43 +1,76 @@
-Desarrollador apasionado y entusiasta en ingeniería de datos 💻📈<br>
+# Nicolás Pastorini  
+**Ingeniero de Datos | Python · BI · Backend en transición a AI Engineering**
 
-💻 Analista de datos con experiencia en visualización, modelado y planificación estratégica. Mi objetivo es convertir datos en conocimiento para impulsar el crecimiento y la eficiencia empresarial.<br>
+Ingeniero de Datos con **4 años de experiencia profesional** en el diseño y desarrollo de soluciones analíticas orientadas a Business Intelligence, planificación y soporte a la toma de decisiones.
 
-📈 A lo largo de mi carrera, he trabajado en proyectos de Data Visualization & Engineering utilizando herramientas como SSIS, SSMS, Power BI, Supermetrics, Google Scripts, Python, Data Studio, Tableau, GCP y C#.<br>
+A lo largo de mi carrera trabajé en proyectos de **Data Visualization & Data Engineering** para sectores como energía, finanzas y marketing digital, combinando modelado de datos, procesos ETL y automatización. Mi foco está en convertir datos en conocimiento accionable mediante soluciones confiables y reproducibles.
 
-👨🏻‍💻 Soy proactivo, ordenado y comprometido. Priorizo las mejores prácticas, una comunicación efectiva y la constante mejora y automatizado de procesos.<br>
+Actualmente me encuentro **orientando mi perfil hacia desarrollo Python y AI Engineering**, incorporando backend, arquitecturas de servicios y sistemas de consulta basados en datos.
 
-🔧 ETL (Python Pipeline, SSIS, SSAS)<br>
-📊 Visualización de datos (Power BI, Data Studio, Tableau)<br>
-🗃️ Base de datos (PostgreSQL, SQL Server)<br>
-🌐 Análisis de tableros, datos y procesos, identificando oportunidades de mejora y optimización<br>
+---
 
-🛠 Proyectos:<br>
-🔧 [Inicio de Sesion/Registro en Java Spring](https://github.com/NicoPastorini1/login-backend) <br>
-🔧 [CRUD Backend en Nodes.Js](https://github.com/NicoPastorini1/CRUD-backend)<br>
-🔧 [CRUD Backend en Java](https://github.com/NicoPastorini1/CRUD-Backend-Java)<br>
-🔧 [gif-search-app](https://github.com/NicoPastorini1/gif-search-app)<br>
-🔧 [CRUD-DesignAPPChallenge](https://github.com/NicoPastorini1/CRUD-DesignAPPChallenge)<br>
+## 🧠 Competencias principales
 
-🛠 Experiencia:<br>
-💼 Ene 2023 - Actual.  | Corebi - Data Vizualition & Data Engineering <br>
-💼 Jul 2022 - Ene 2023 | Frubis - Reporting Specialist<br>
-💼 Oct 2021 - Jul 2022 | Decreditos - Data Analyst & Planning<br>
+### Data Engineering & Analytics
+- Diseño de pipelines ETL (Python, SSIS, SSAS)
+- Modelado de datos y lógica de negocio
+- Validación, calidad y consistencia de datos
+- Automatización de procesos analíticos
 
-![NicoPastorini1 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoPastorini1&layout=compact) <br>
+### Lenguajes y Tecnologías
+- **Python**
+- SQL
+- Google Apps Script
+- Java (básico)
+- C#
 
-Contacto:<br>
-📧 Si queres charlar conmigo 𝗽𝗼𝗱𝗲𝘀 𝗰𝗼𝗻𝘁𝗮𝗰𝘁𝗮𝗿𝗺𝗲 directamente por Linkedin o enviarme un mail a nicolaspastorini14@gmail.com
-<!--
-**NicoPastorini1/NicoPastorini1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Bases de Datos
+- PostgreSQL
+- SQL Server
 
-Here are some ideas to get you started:
+### Visualización y BI
+- Power BI
+- Tableau
+- Looker Studio (Data Studio)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Proyectos destacados
+
+- **Inicio de sesión / Registro – Java Spring**  
+  Implementación de autenticación y gestión de usuarios.
+
+- **CRUD Backend – Node.js**  
+  API backend con operaciones CRUD y estructura modular.
+
+- **CRUD Backend – Java**  
+  Backend orientado a persistencia y lógica de negocio.
+
+- **gif-search-app**  
+  Aplicación de consumo de APIs externas.
+
+- **CRUD-DesignAppChallenge**  
+  Proyecto enfocado en diseño y arquitectura básica de aplicaciones.
+
+---
+
+## 💼 Experiencia profesional
+
+- **Data Visualization & Data Engineering – COREBI Data & Analytics**  
+  *Enero 2023 – Actualidad*  
+  Desarrollo de soluciones analíticas, procesos ETL y tableros de alto impacto para niveles gerenciales.
+
+- **Reporting Specialist – Frubis**  
+  *Julio 2022 – Enero 2023*  
+  Gestión integral de reporting para clientes de marketing digital y automatización de flujos de datos.
+
+- **Data Analyst & Planning – Decréditos**  
+  *Octubre 2021 – Julio 2022*  
+  Desarrollo de tableros gerenciales, análisis financiero y automatización de reportes.
+
+---
+
+## 📫 Contacto
+
+📧 nicolaspastorini14@gmail.com  
+💼 LinkedIn: https://linkedin.com/in/nicolas-pastorini
