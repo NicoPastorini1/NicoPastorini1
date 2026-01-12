@@ -9,30 +9,22 @@ Actualmente me encuentro **orientando mi perfil hacia desarrollo Python, Backend
 
 ---
 
-## 🧠 Competencias principales
+## 🧰 Tech Stack
 
-### Data Engineering & Analytics
-- Diseño de pipelines ETL (Python, SSIS, SSAS)
-- Modelado de datos y lógica de negocio
-- Validación, calidad y consistencia de datos
-- Automatización de procesos analíticos
+### Lenguajes
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
 
-### Lenguajes y Tecnologías
-- **Python**
-- SQL
-- JavaScript (Node.js)
-- Google Apps Script
-- Java (básico)
-- C#
+### Backend & Data
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
-### Bases de Datos
-- PostgreSQL
-- SQL Server
-
-### Visualización y BI
-- Power BI
-- Tableau
-- Looker Studio (Data Studio)
+### BI & Visualización
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=googleanalytics&logoColor=white)
 
 ---
 
@@ -40,7 +32,7 @@ Actualmente me encuentro **orientando mi perfil hacia desarrollo Python, Backend
 
 ### 📊 Data & Analytics
 - **better-ganttV2**  
-  Gantt chart custom para **Power BI**, desarrollado con lógica avanzada de visualización y estructura modular.  
+  Gantt chart custom para **Power BI**, desarrollado con lógica avanzada de visualización, DAX y estructura modular.  
   👉 https://github.com/NicoPastorini1/better-ganttV2
 
 ---
@@ -76,7 +68,7 @@ Actualmente me encuentro **orientando mi perfil hacia desarrollo Python, Backend
 
 ### 🤖 GenAI / AI Engineering (en progreso)
 - Proyectos orientados a **automatización, backend en Python y sistemas de consulta basados en datos**.  
-  *(Actualmente en desarrollo; repositorios próximos a publicarse)*
+  *(Repositorios en desarrollo)*
 
 ---
 
