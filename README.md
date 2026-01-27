@@ -1,11 +1,10 @@
 # Nicolás Pastorini  
 **Ingeniero de Datos | Python · BI · Backend | En transición a AI Engineering**
 
-Ingeniero de Datos con **4 años de experiencia profesional** en el diseño y desarrollo de soluciones analíticas orientadas a Business Intelligence, planificación y soporte a la toma de decisiones.
+Ingeniero de Datos con **4 años de experiencia profesional** en soluciones analíticas orientadas a BI, planificación y toma de decisiones.
 
-A lo largo de mi carrera trabajé en proyectos de **Data Visualization & Data Engineering** para sectores como energía, finanzas y marketing digital, combinando modelado de datos, procesos ETL y automatización. Mi foco está en convertir datos en conocimiento accionable mediante soluciones confiables y reproducibles.
-
-Actualmente me encuentro **orientando mi perfil hacia desarrollo Python, Backend y AI Engineering**, incorporando arquitecturas de servicios, automatización y sistemas data-driven.
+Experiencia en **Data Visualization & Data Engineering** para energía, finanzas y marketing digital, combinando modelado de datos, ETL y automatización.  
+Actualmente orientado a **Python, Backend y AI Engineering**, con foco en arquitecturas de servicios y sistemas data‑driven.
 
 ---
 
@@ -28,44 +27,44 @@ Actualmente me encuentro **orientando mi perfil hacia desarrollo Python, Backend
 
 ---
 
-## 🛠 Proyectos actuales
+## 🛠 Proyectos
 
 - 📊 **[better-ganttV2](https://github.com/NicoPastorini1/better-ganttV2)**  
-  Gantt chart custom para **Power BI**, con lógica avanzada de visualización, DAX y estructura modular.
+  Gantt custom para Power BI con DAX y visualización avanzada.
+
+- 📈 **[Advanced-Gantt](https://github.com/NicoPastorini1/Advanced-Gantt)**  
+  Gantt avanzado para Power BI con lógica compleja y foco en performance.
 
 - ⚙️ **[CRUD Backend – Node.js](https://github.com/NicoPastorini1/CRUD-backend)**  
-  API REST con operaciones CRUD, estructura modular y separación de responsabilidades.
+  API REST CRUD con arquitectura modular.
 
 - 🔐 **[Login Backend](https://github.com/NicoPastorini1/login-backend)**  
-  Backend de autenticación y registro de usuarios (Argentina Programa).
+  Backend de autenticación y registro.
 
 - 🖥 **[Login Frontend](https://github.com/NicoPastorini1/login-frontend)**  
-  Interfaz de login y registro conectada a backend de autenticación.
+  UI de login conectada a backend.
 
 - 🎨 **[CRUD Frontend / Design Challenge](https://github.com/NicoPastorini1/CRUD-DesignAPPChallenge)**  
-  Frontend enfocado en diseño y consumo de APIs CRUD.
+  Frontend para consumo de APIs CRUD.
 
 - 🕸 **[Web Scraping – Tienda DIA](https://github.com/NicoPastorini1/dia-webscrapping)**  
-  Script de scraping para extracción de datos desde e-commerce.
+  Scraping de e‑commerce para análisis.
 
 - 🤖 **GenAI / AI Engineering**  
-  Automatización, backend en Python y sistemas data-driven. *(En progreso)*
+  Automatización y backend en Python. *(En progreso)*
 
 ---
 
 ## 💼 Experiencia profesional
 
 - **Data Visualization & Data Engineering – COREBI Data & Analytics**  
-  *Enero 2023 – Actualidad*  
-  Soluciones analíticas, ETL y tableros gerenciales.
+  *Enero 2023 – Actualidad*
 
 - **Reporting Specialist – Frubis**  
-  *Julio 2022 – Enero 2023*  
-  Reporting para marketing digital y automatización de datos.
+  *Julio 2022 – Enero 2023*
 
 - **Data Analyst & Planning – Decréditos**  
-  *Octubre 2021 – Julio 2022*  
-  Tableros gerenciales, análisis financiero y reporting automatizado.
+  *Octubre 2021 – Julio 2022*
 
 ---
 
