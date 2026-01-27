@@ -28,47 +28,27 @@ Actualmente me encuentro **orientando mi perfil hacia desarrollo Python, Backend
 
 ---
 
-## 🛠 Proyectos
+## 🛠 Proyectos actuales
 
-### 📊 Data & Analytics
-- **better-ganttV2**  
-  Gantt chart custom para **Power BI**, desarrollado con lógica avanzada de visualización, DAX y estructura modular.  
+- 📊 **better-ganttV2** — Gantt chart custom para Power BI con lógica avanzada de visualización, DAX y estructura modular.  
   👉 https://github.com/NicoPastorini1/better-ganttV2
 
----
-
-### 🧩 Backend
-- **CRUD Backend – Node.js**  
-  API REST con operaciones CRUD, estructura modular y separación de responsabilidades.  
+- ⚙️ **CRUD Backend – Node.js** — API REST con operaciones CRUD, estructura modular y separación de responsabilidades.  
   👉 https://github.com/NicoPastorini1/CRUD-backend
 
-- **Login Backend**  
-  Backend de autenticación y registro de usuarios (proyecto educativo – Argentina Programa).  
+- 🔐 **Login Backend** — Backend de autenticación y registro de usuarios (Argentina Programa).  
   👉 https://github.com/NicoPastorini1/login-backend
 
----
-
-### 🖥 Frontend (soporte a backend)
-- **Login Frontend**  
-  Interfaz de login y registro conectada a backend de autenticación.  
+- 🖥 **Login Frontend** — Interfaz de login y registro conectada a backend de autenticación.  
   👉 https://github.com/NicoPastorini1/login-frontend
 
-- **CRUD Frontend / Design Challenge**  
-  Aplicación frontend enfocada en diseño y consumo de APIs CRUD.  
+- 🎨 **CRUD Frontend / Design Challenge** — Frontend enfocado en diseño y consumo de APIs CRUD.  
   👉 https://github.com/NicoPastorini1/CRUD-DesignAPPChallenge
 
----
-
-### ⚙️ Scripting & ETL
-- **Web Scraping – Tienda DIA**  
-  Script de scraping para extracción de datos desde e-commerce, orientado a análisis posterior.  
+- 🕸 **Web Scraping – Tienda DIA** — Script de scraping para extracción de datos desde e‑commerce.  
   👉 https://github.com/NicoPastorini1/dia-webscrapping
 
----
-
-### 🤖 GenAI / AI Engineering (en progreso)
-- Proyectos orientados a **automatización, backend en Python y sistemas de consulta basados en datos**.  
-  *(Repositorios en desarrollo)*
+- 🤖 **GenAI / AI Engineering** — Automatización, backend en Python y sistemas data‑driven. *(En progreso)*
 
 ---
 
@@ -76,15 +56,15 @@ Actualmente me encuentro **orientando mi perfil hacia desarrollo Python, Backend
 
 - **Data Visualization & Data Engineering – COREBI Data & Analytics**  
   *Enero 2023 – Actualidad*  
-  Desarrollo de soluciones analíticas, procesos ETL y tableros de alto impacto para niveles gerenciales.
+  Soluciones analíticas, ETL y tableros gerenciales.
 
 - **Reporting Specialist – Frubis**  
   *Julio 2022 – Enero 2023*  
-  Gestión integral de reporting para clientes de marketing digital y automatización de flujos de datos.
+  Reporting para marketing digital y automatización de datos.
 
 - **Data Analyst & Planning – Decréditos**  
   *Octubre 2021 – Julio 2022*  
-  Desarrollo de tableros gerenciales, análisis financiero y automatización de reportes.
+  Tableros gerenciales, análisis financiero y reporting automatizado.
 
 ---
 
