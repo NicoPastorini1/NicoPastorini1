@@ -30,25 +30,26 @@ Actualmente me encuentro **orientando mi perfil hacia desarrollo Python, Backend
 
 ## 🛠 Proyectos actuales
 
-- 📊 **better-ganttV2** — Gantt chart custom para Power BI con lógica avanzada de visualización, DAX y estructura modular.  
-  👉 https://github.com/NicoPastorini1/better-ganttV2
+- 📊 **[better-ganttV2](https://github.com/NicoPastorini1/better-ganttV2)**  
+  Gantt chart custom para **Power BI**, con lógica avanzada de visualización, DAX y estructura modular.
 
-- ⚙️ **CRUD Backend – Node.js** — API REST con operaciones CRUD, estructura modular y separación de responsabilidades.  
-  👉 https://github.com/NicoPastorini1/CRUD-backend
+- ⚙️ **[CRUD Backend – Node.js](https://github.com/NicoPastorini1/CRUD-backend)**  
+  API REST con operaciones CRUD, estructura modular y separación de responsabilidades.
 
-- 🔐 **Login Backend** — Backend de autenticación y registro de usuarios (Argentina Programa).  
-  👉 https://github.com/NicoPastorini1/login-backend
+- 🔐 **[Login Backend](https://github.com/NicoPastorini1/login-backend)**  
+  Backend de autenticación y registro de usuarios (Argentina Programa).
 
-- 🖥 **Login Frontend** — Interfaz de login y registro conectada a backend de autenticación.  
-  👉 https://github.com/NicoPastorini1/login-frontend
+- 🖥 **[Login Frontend](https://github.com/NicoPastorini1/login-frontend)**  
+  Interfaz de login y registro conectada a backend de autenticación.
 
-- 🎨 **CRUD Frontend / Design Challenge** — Frontend enfocado en diseño y consumo de APIs CRUD.  
-  👉 https://github.com/NicoPastorini1/CRUD-DesignAPPChallenge
+- 🎨 **[CRUD Frontend / Design Challenge](https://github.com/NicoPastorini1/CRUD-DesignAPPChallenge)**  
+  Frontend enfocado en diseño y consumo de APIs CRUD.
 
-- 🕸 **Web Scraping – Tienda DIA** — Script de scraping para extracción de datos desde e‑commerce.  
-  👉 https://github.com/NicoPastorini1/dia-webscrapping
+- 🕸 **[Web Scraping – Tienda DIA](https://github.com/NicoPastorini1/dia-webscrapping)**  
+  Script de scraping para extracción de datos desde e-commerce.
 
-- 🤖 **GenAI / AI Engineering** — Automatización, backend en Python y sistemas data‑driven. *(En progreso)*
+- 🤖 **GenAI / AI Engineering**  
+  Automatización, backend en Python y sistemas data-driven. *(En progreso)*
 
 ---
 
