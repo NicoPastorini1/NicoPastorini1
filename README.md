@@ -35,6 +35,9 @@ Actualmente orientado a **Python, Backend y AI Engineering**, con foco en arquit
 - 📈 **[Advanced-Gantt](https://github.com/NicoPastorini1/Advanced-Gantt)**  
   Gantt avanzado para Power BI con lógica compleja y foco en performance.
 
+- 🔘 **[button-toggle-pbiviz](https://github.com/NicoPastorini1/button-toggle-pbiviz)**  
+  Custom Visual para Power BI que implementa un botón toggle interactivo desarrollado con TypeScript y pbiviz SDK.
+
 - ⚙️ **[CRUD Backend – Node.js](https://github.com/NicoPastorini1/CRUD-backend)**  
   API REST CRUD con arquitectura modular.
 
