@@ -38,18 +38,6 @@ Actualmente orientado a **Python, Backend y AI Engineering**, con foco en arquit
 - 🔘 **[button-toggle-pbiviz](https://github.com/NicoPastorini1/button-toggle-pbiviz)**  
   Custom Visual para Power BI que implementa un botón toggle interactivo desarrollado con TypeScript y pbiviz SDK.
 
-- ⚙️ **[CRUD Backend – Node.js](https://github.com/NicoPastorini1/CRUD-backend)**  
-  API REST CRUD con arquitectura modular.
-
-- 🔐 **[Login Backend](https://github.com/NicoPastorini1/login-backend)**  
-  Backend de autenticación y registro.
-
-- 🖥 **[Login Frontend](https://github.com/NicoPastorini1/login-frontend)**  
-  UI de login conectada a backend.
-
-- 🎨 **[CRUD Frontend / Design Challenge](https://github.com/NicoPastorini1/CRUD-DesignAPPChallenge)**  
-  Frontend para consumo de APIs CRUD.
-
 - 🕸 **[Web Scraping – Tienda DIA](https://github.com/NicoPastorini1/dia-webscrapping)**  
   Scraping de e‑commerce para análisis.
 
